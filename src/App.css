@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+background-color:gray;
+display: flex;
+}
+.employ{
+  width:75%;
 }
 
 .App-logo {
